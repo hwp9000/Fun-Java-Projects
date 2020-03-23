@@ -1,5 +1,5 @@
 # js projects
 
-I post my fun Java projects here.
+I post my fun js projects here.
 
 Use at your own will :)
