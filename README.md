@@ -1,4 +1,4 @@
-# Fun-Java-Projects
+# js projects
 
 I post my fun Java projects here.
 
